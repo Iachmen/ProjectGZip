@@ -1,0 +1,6 @@
+c:\users\irina\documents\visual studio 2012\Projects\GZipTest\GZipTest\bin\Debug\GZipTest.exe.config
+c:\users\irina\documents\visual studio 2012\Projects\GZipTest\GZipTest\bin\Debug\GZipTest.exe
+c:\users\irina\documents\visual studio 2012\Projects\GZipTest\GZipTest\bin\Debug\GZipTest.pdb
+c:\users\irina\documents\visual studio 2012\Projects\GZipTest\GZipTest\obj\Debug\GZipTest.csprojResolveAssemblyReference.cache
+c:\users\irina\documents\visual studio 2012\Projects\GZipTest\GZipTest\obj\Debug\GZipTest.exe
+c:\users\irina\documents\visual studio 2012\Projects\GZipTest\GZipTest\obj\Debug\GZipTest.pdb
